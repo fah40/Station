@@ -1,0 +1,19 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "MyStation/lib/apj-ejb.jar",
+        "MyStation/lib/commons-csv-1.10.0.jar",
+        "MyStation/lib/commons-fileupload-1.3.1.jar",
+        "MyStation/lib/httpclient-4.3.4.jar",
+        "MyStation/lib/httpcore-4.3.2.jar",
+        "MyStation/lib/httpmime-4.3.jar",
+        "MyStation/lib/itextpdf-5.5.6.jar",
+        "MyStation/lib/javax.ejb.jar",
+        "MyStation/lib/javax.servlet.jar",
+        "MyStation/lib/javax.servlet-3.0.jar",
+        "MyStation/lib/ojdbc6.jar",
+        "MyStation/lib/postgresql-42.6.0.jar",
+        "MyStation/lib/servlet-api.jar",
+        "MyStation/lib/station-ejb.jar"
+    ]
+}
